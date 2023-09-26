@@ -2,3 +2,10 @@ git clone
 git add .
 git commit -m
 git push
+
+git clone https://github.com/saint-martin-justine/git.begins 
+git add --all
+git commit -m [nom du commentaire]
+git push origin main 
+git branch [nom de la branche]
+git checkout [nom de la branche]
